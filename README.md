@@ -11,5 +11,5 @@ Web scrapped from google using Beautifulsoup
 Project aim is to build a sentiment analysis. Sentimenet analysis will be performed on gathered data to analyse positivity/negativity about the school shooting among the folks.
 
 **Feature engineering:**
-maximum features - experiment with maximum number of features to see how the results differ.
-n-grams - experiment with different n-grams (unigram, bigram only, etc.)
+1. maximum features - experiment with maximum number of features to see how the results differ.
+2. n-grams - experiment with different n-grams (unigram, bigram only, etc.)

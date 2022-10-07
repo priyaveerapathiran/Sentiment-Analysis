@@ -4,8 +4,9 @@ According to CNN report, since 2009, at least 177 of America’s schools experie
 In 10 years of shootings on K-12 campuses and found two sobering truths: School shootings are increasing, and no type of community is spared.
 
 **Dataset**
+For this sentiment analysis I took Texas School Shooting.
 
-Web scrapped from google using Beautifulsoup
+Web scrapped from google using Beautifulsoup and also web scrapped from Twitter using SNScrape.
 
 **Project Aim**
 

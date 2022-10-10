@@ -15,3 +15,4 @@ Project aim is to build a sentiment analysis. Sentimenet analysis will be perfor
 **Feature engineering:**
 1. maximum features - experiment with maximum number of features to see how the results differ.
 2. n-grams - experiment with different n-grams (unigram, bigram only, etc.)
+3. Tokenisation- Applied tokenisation to convert sentance to words.
